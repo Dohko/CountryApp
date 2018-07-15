@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CountryApp
+
+  Created by Morgan Fitussi on 15/07/2018.
+  Copyright © 2018 Maccabi. All rights reserved.
+*/
+
+"CountriesViewControllerTitle" = "Countries";
+"ConnexionError" = "We got a connexion error!";

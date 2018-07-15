@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CountryApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TinyNetwork.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A45D8C7120FA76E800AB33A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A45D8C8520FA76EA00AB33A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A45D8C9020FA76EA00AB33A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A484331A20FA7D3F001D4B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
